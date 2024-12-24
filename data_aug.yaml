@@ -1,0 +1,10 @@
+# dataset path
+train: /home/leo/Documents/Exxxit/PCB_aug/images/train
+val: /home/leo/Documents/Exxxit/PCB_aug/images/val
+test: /home/leo/Documents/Exxxit/PCB_aug/images/test
+
+# number of classes
+nc: 6
+
+# class names
+names: ['missing_hole', 'mouse_bite', 'open_circuit', 'short', 'spur','spurious_copper']

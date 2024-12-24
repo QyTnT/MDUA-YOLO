@@ -1,0 +1,11 @@
+# dataset path
+train: /home/leo/Documents/Exxxit/pcbdata/train
+val: /home/leo/Documents/Exxxit/pcbdata/valid
+test: /home/leo/Documents/Exxxit/pcbdata/test
+
+# number of classes
+nc: 6
+
+# class names
+names: ['copper', 'mousebite', 'open', 'pin-hole', 'short', 'spur']
+#names: ['spur' ,'missing_hole', 'short', 'spurious_copper','open_circuit','mouse_bite']

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="304 (3)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="304 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/leo/Documents/Exxxit/pcdet" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="leo@10.52.136.31:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/leo/Documents/Exxxit" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
